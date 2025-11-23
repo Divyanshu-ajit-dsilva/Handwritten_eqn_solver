@@ -1,0 +1,9 @@
+data/
+*.h5
+*.pt
+*.pth
+*.onnx
+*.npz
+*.npy
+temp/
+__pycache__/
