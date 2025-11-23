@@ -22,11 +22,11 @@ The Handwritten Equation Solver project addresses the challenge of accurately in
 
     - The dataset comprises images of handwritten mathematical symbols and equations. The dataset is sourced from Kaggle [Dataset](https://www.kaggle.com/datasets/xainano/handwrittenmathsymbols/data) and can also be downloaded directly from [here](https://cainvas-static.s3.amazonaws.com/media/user_data/Yuvnish17/data.zip)
 
-    ![img](https://github.com/abhisheks008/DL-Simplified/assets/103712713/3cebe29a-4626-49dc-8ef8-c1376078d038)
+    ![img](https://github.com/Divyanshu-ajit-dsilva/Handwritten_eqn_solver/blob/main/assets/nums_label.png)
 
     - Preprocessing steps include resizing images, normalizing pixel values, and augmenting data to improve model robustness.
 
-    ![img0](https://github.com/abhisheks008/DL-Simplified/assets/103712713/befbdbde-9f56-4d04-bed3-d6775ee1c49f)
+    ![img0](https://github.com/Divyanshu-ajit-dsilva/Handwritten_eqn_solver/blob/main/assets/data_info.png)
 
 
 
@@ -37,7 +37,7 @@ The Handwritten Equation Solver project addresses the challenge of accurately in
    
     - Training: The model is trained on individual character images to classify each character accurately. The CNN achieved an impressive accuracy of `97.43%` in recognizing handwritten characters.
 
-    ![img4]()
+    ![img4](https://github.com/Divyanshu-ajit-dsilva/Handwritten_eqn_solver/blob/main/assets/op.png)
 
     
     - CNNs are highly effective in capturing local patterns and spatial features, making them ideal for character recognition tasks.
@@ -72,7 +72,7 @@ The Handwritten Equation Solver project addresses the challenge of accurately in
 
 ### 🎥 Demo
 
-https://github.com/Sgvkamalakar/Hand-Written-Equation-Solver/assets/103712713/356ea492-0f6e-41f5-9612-bfd583534ca3
+https://github.com/Divyanshu-ajit-dsilva/Handwritten_eqn_solver/blob/main/assets/Equation%20Solver%20-%20Brave%202025-11-24%2004-50-26.mp4
 
  
 ### 🚀 **Models Implemented**
@@ -120,7 +120,7 @@ https://github.com/Sgvkamalakar/Hand-Written-Equation-Solver/assets/103712713/35
 </table>
 </div>
 
-![img1](https://github.com/abhisheks008/DL-Simplified/assets/103712713/f6aadfb9-874c-4734-b5c3-e55792ba4218)
+![img1](https://github.com/Divyanshu-ajit-dsilva/Handwritten_eqn_solver/blob/main/assets/output.png)
 
 
 ### 📢 **Conclusion**
