@@ -133,21 +133,6 @@ https://github.com/Sgvkamalakar/Hand-Written-Equation-Solver/assets/103712713/35
 
 ### 📢 **Conclusion**
 
-In conclusion, the handwritten equation solver utilizing deep learning techniques, including Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), has demonstrated promising accuracy levels. The CNN-based approach achieved an impressive accuracy of `97.57%`, while the RNN-based method achieved a respectable accuracy of `76.32%`.
+In conclusion, the handwritten equation solver utilizing deep learning techniques, including Convolutional Neural Networks (CNNs) has demonstrated promising accuracy levels. The CNN-based approach achieved an impressive accuracy of `97.57%`.
 
 The `CNN model` excelled in accurately recognizing and classifying individual handwritten characters within the equations. Its ability to effectively capture spatial hierarchies and local patterns in the input images contributed to its high accuracy. With its deep layers and convolutional operations, the CNN was capable of learning complex features directly from the pixel values, enabling robust classification of handwritten characters.
-
-
-### ✒️ **Signature**
-
-<p align="center">
-  <img src="https://github.com/sgvkamalakar.png" height="200" width="200"/>
-</p>
-<p align="center">
-  Kamalakar Satapathi
-</p>
-
- 
-Connect with me on [![LinkedIn](https://img.shields.io/badge/-Kamalakar_Satapathi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sgvkamalakar)
-
-Explore my codes [![GitHub](https://img.shields.io/badge/-Sgvkamalakar-181717?style=flat-square&logo=github)](https://github.com/sgvkamalakar)
